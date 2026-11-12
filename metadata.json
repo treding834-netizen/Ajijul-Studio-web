@@ -1,0 +1,6 @@
+{
+  "name": "Ajijul AI - Official APK Portal",
+  "description": "Official 3D web portal for Ajijul AI Android application developed by Md Ajijul Haque.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
